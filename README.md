@@ -1,12 +1,11 @@
-# AnchorPageJS(Current Version: 1.0.0 alpha)
-AnchorPageJS is a webpage-scroller, which allows you to scroll to specific points on your webpage. You can create beautiful Full-Page Pages or a mix of Full-Page and scrollable(non full-page) websites! You can use it to just scroll automatically to a specific point on your webpage as well! 
-
-## Notice:
-AnchorPageJS is not suited for MOBILE DEVICES yet or any type of SWIPING devices. With that being said I'll recommend to NOT USE IT in production when a mobile function is needed! Next update will include a mobile feature!
+# AnchorPageJS(Current Version: 1.1.1)
+AnchorPageJS is a webpage-scroller, which allows you to scroll to specific points on your webpage. You can create beautiful Full-Page Pages or a mix of Full-Page and scrollable(non full-page) websites! You can use it to just scroll automatically to a specific point on your webpage as well!
 
 ### Requirements
-AnchorPageJS requires JQuery(tested with JQuery V.3.3.1) with animation extenstion.
+AnchorPageJS requires JQuery (tested with JQuery V.3.3.1) with animation extension.
 
+### Examples
+There are no Examples at the moment. But will be coming in the next two Weeks. 
 
 ### Installation
 Just include the anchorPage_[VERSION].min.js or the anchorPage_[VERSION].js into your project and AFTER the JQuery include.
@@ -65,3 +64,24 @@ Or for a more advanced initialization you can use some options:
 `startMargin`: the margin measured by the very first given anchor before it starts the Animation (NUMBER)
 
 `endMargin`: same as startMargin but with the very last given Anchor
+
+### Changelog
+10.3.2018:
+
+- Final Version Release: 1.1.1
+
+- Bugfix: Scrolling will no longer skip sections
+
+- Bugfix: Fast Scrolling won't affect startMargin anymore
+
+- Version 1.1.0 Alpha
+
+- Added Mobile Swiping Support
+
+### Planned Features
+- responsive breakpoints
+- more animations
+- Scrolling for elements and not only for the Browserwindow
+
+### Bugs
+No Bugs known Hurray!
