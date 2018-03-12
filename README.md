@@ -1,4 +1,4 @@
-# AnchorPageJS(Current Version: 1.1.1)
+# AnchorPageJS(Current Version: 1.2.3)
 AnchorPageJS is a webpage-scroller, which allows you to scroll to specific points on your webpage. You can create beautiful Full-Page Pages or a mix of Full-Page and scrollable(non full-page) websites! You can use it to just scroll automatically to a specific point on your webpage as well!
 
 ### Requirements
@@ -66,17 +66,29 @@ Or for a more advanced initialization you can use some options:
 `endMargin`: same as startMargin but with the very last given Anchor
 
 ### Changelog
+12.03.2018:
+
+Release: Version 1.2.4
+
+- Feature: Added smoother Scrolling when offset is set
+
+- Bugfix: If more than one time initiated, no weird behaviour anymore
+
+- Bugfix: cutted appearence on more complex html structure fixed
+
+- Bugfix: Weird scrolling behaviour (flickers) fixed
+
 10.3.2018:
 
-- Final Version Release: 1.1.1
+Final Version Release: 1.1.1
 
 - Bugfix: Scrolling will no longer skip sections
 
 - Bugfix: Fast Scrolling won't affect startMargin anymore
 
-- Version 1.1.0 Alpha
+Version 1.1.0 Alpha
 
-- Added Mobile Swiping Support
+- Feature: Added Mobile Swiping Support
 
 ### Planned Features
 - responsive breakpoints
