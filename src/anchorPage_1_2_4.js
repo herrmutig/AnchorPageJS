@@ -107,8 +107,6 @@ Fixed Weird sliding animations
                 }
 
             }
-            console.log("WINDOW: " + $(window).scrollTop());
-            console.log("POS:" + ($(posObjArr[getCurrentPosition()]).offset().top - settings.startMargin));
             if (movedByTouch) {       
                 if (minPos === getCurrentPosition() && getTouchDirection() === "down" || maxPos === getCurrentPosition() && getTouchDirection(event) === "up") {
                     return true;
