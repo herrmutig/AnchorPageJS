@@ -1,5 +1,5 @@
 /**
- *AnchorPageJS Version 1.2.3
+ *AnchorPageJS Version 1.2.4
  *Author: HerrMutig
  *License: MIT
  */
