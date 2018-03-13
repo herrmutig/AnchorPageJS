@@ -4,7 +4,6 @@
  *License: MIT
  */
 
-Fixed Weird sliding animations
 (function ($) {
     var anchorPageFunctionCalls = 0;
     $.fn.anchorPage = function (options) {
