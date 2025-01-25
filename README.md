@@ -65,35 +65,3 @@ Or for a more advanced initialization you can use some options:
 
 `endMargin`: same as startMargin but with the very last given Anchor
 
-### Changelog
-12.03.2018:
-
-Release: Version 1.2.4
-
-- Feature: Added smoother Scrolling when offset is set
-
-- Bugfix: If more than one time initiated, no weird behaviour anymore
-
-- Bugfix: cutted appearence on more complex html structure fixed
-
-- Bugfix: Weird scrolling behaviour (flickers) fixed
-
-10.3.2018:
-
-Final Version Release: 1.1.1
-
-- Bugfix: Scrolling will no longer skip sections
-
-- Bugfix: Fast Scrolling won't affect startMargin anymore
-
-Version 1.1.0 Alpha
-
-- Feature: Added Mobile Swiping Support
-
-### Planned Features
-- responsive breakpoints
-- more animations
-- Scrolling for elements and not only for the Browserwindow
-
-### Bugs
-No Bugs known Hurray!
