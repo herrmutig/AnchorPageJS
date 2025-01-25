@@ -1,4 +1,4 @@
-# AnchorPageJS(Current Version: 1.2.4)
+# AnchorPageJS
 AnchorPageJS is a webpage-scroller, which allows you to scroll to specific points on your webpage. You can create beautiful Full-Page Pages or a mix of Full-Page and scrollable(non full-page) websites! You can use it to just scroll automatically to a specific point on your webpage as well!
 
 ### Requirements
